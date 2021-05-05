@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import NavBar from "components/NavBar";
 import Footer from "components/Footer";
 import DataTable from "components/DataTable";
@@ -30,6 +31,13 @@ function App() {
       </div>
       <Footer />
     </>
+=======
+function App() {
+  return (
+    <div>
+      <h1>Olá mundo!</h1>
+    </div>
+>>>>>>> 78604e53b7798a91453e7173a0e71d6670576eb0
   );
 }
 
